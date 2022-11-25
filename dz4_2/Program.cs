@@ -5,16 +5,10 @@
 
 Console.WriteLine("Введите число");
 int N = Convert.ToInt32(Console.ReadLine());
-
-int NumbersStringSumm (int N)
-{
-    int Length = Convert.ToString(N).Length;
-    int summ = 0;
-for (int i = Length; i >= 0; i--)
-{
-    summ = Length;
-}
-    return summ;
-}
-int allNumbersSumm = NumbersStringSumm( N );
-Console.WriteLine(allNumbersSumm);
+int sum = 0;
+while(N > 0)
+        {
+            sum += N % 10;
+            N /= 10;
+        }
+Console.WriteLine("Сумма цифр = "+sum);
