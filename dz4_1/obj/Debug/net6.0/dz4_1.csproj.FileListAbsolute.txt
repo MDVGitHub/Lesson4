@@ -3,3 +3,13 @@
 /Users/dmitriymakarov/Desktop/C##/Lesson4/dz4_1/obj/Debug/net6.0/dz4_1.AssemblyInfoInputs.cache
 /Users/dmitriymakarov/Desktop/C##/Lesson4/dz4_1/obj/Debug/net6.0/dz4_1.AssemblyInfo.cs
 /Users/dmitriymakarov/Desktop/C##/Lesson4/dz4_1/obj/Debug/net6.0/dz4_1.csproj.CoreCompileInputs.cache
+/Users/dmitriymakarov/Desktop/C##/Lesson4/dz4_1/bin/Debug/net6.0/dz4_1
+/Users/dmitriymakarov/Desktop/C##/Lesson4/dz4_1/bin/Debug/net6.0/dz4_1.deps.json
+/Users/dmitriymakarov/Desktop/C##/Lesson4/dz4_1/bin/Debug/net6.0/dz4_1.runtimeconfig.json
+/Users/dmitriymakarov/Desktop/C##/Lesson4/dz4_1/bin/Debug/net6.0/dz4_1.dll
+/Users/dmitriymakarov/Desktop/C##/Lesson4/dz4_1/bin/Debug/net6.0/dz4_1.pdb
+/Users/dmitriymakarov/Desktop/C##/Lesson4/dz4_1/obj/Debug/net6.0/dz4_1.dll
+/Users/dmitriymakarov/Desktop/C##/Lesson4/dz4_1/obj/Debug/net6.0/refint/dz4_1.dll
+/Users/dmitriymakarov/Desktop/C##/Lesson4/dz4_1/obj/Debug/net6.0/dz4_1.pdb
+/Users/dmitriymakarov/Desktop/C##/Lesson4/dz4_1/obj/Debug/net6.0/dz4_1.genruntimeconfig.cache
+/Users/dmitriymakarov/Desktop/C##/Lesson4/dz4_1/obj/Debug/net6.0/ref/dz4_1.dll
