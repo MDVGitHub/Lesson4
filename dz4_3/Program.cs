@@ -2,4 +2,10 @@
 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 6, 1, 33 -> [6, 1, 33]*/
 
-int Array [] = 
+int []numbers = new int [8];
+for (int i = 0; i < numbers.Length; i++)
+{
+    Random rnd = new Random();
+    numbers[i] = rnd.Next(0, 100);
+}
+Console.WriteLine("[{0}]", string.Join(", ", numbers));
