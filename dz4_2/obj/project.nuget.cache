@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hjeBeFsEwqx+iyS5OpGaXJeAjENHoF9Gn8sOUT5+svH/UItZLPmPNC1TLiUWnI0GJKpbb3Qf7bC38kbu1juMSw==",
+  "dgSpecHash": "olTSibgKanrEq6Hga5s44x5a580bE2Td8M7cL73yFBCeOUjRdGUucFQVYo5TWKYZucNGCdZ/LfcPOHh8u7BpVg==",
   "success": true,
-  "projectFilePath": "/Users/dmitriymakarov/Desktop/C##/Lesson4/dz4_2/dz4_2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\dmaka\\Desktop\\С##\\Lesson4\\dz4_2\\dz4_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmaka\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\dmaka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\dmaka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\dmaka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
